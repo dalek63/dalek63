@@ -15,7 +15,7 @@
 **About Me!**
 
 - 👨🏽‍💻 I’m currently a student 
-- 🤔 My interest lies in web development.
+- 🤔 My interest lies in web development and in development in general.
 - 💬 Ask me about anything, I love to answer!
 - 📫 Email me at [thesupremedalek63@gmail.com](mailto:thesupremedalek63@gmail.com).
 
